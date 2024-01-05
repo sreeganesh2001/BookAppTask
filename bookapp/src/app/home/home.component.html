@@ -1,0 +1,21 @@
+<table>
+  <thead>
+    <tr>
+      <th>Title</th>
+      <!-- <th>Author</th>
+      <th>Publication Year</th> -->
+      <!-- Add more headers as needed -->
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let book of books">
+      <td style="cursor: pointer;">{{ book.title }}<a routerLink="/home/{{book.title}}">View Details</a> </td>
+      <!-- <td>{{ book.author }}</td>
+      <td>{{ book.publication_year }}</td> -->
+      <!-- Add more cells as needed -->
+    </tr>
+  </tbody>
+  <div>
+    <router-outlet></router-outlet>
+  </div>
+</table>

@@ -1,0 +1,161 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "books": [
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "publication_year": 1951,
+      "genre": "Fiction",
+      "isbn": "978-0-316-76948-0"
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "publication_year": 1960,
+      "genre": "Fiction",
+      "isbn": "0-06-112008-1"
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "publication_year": 1949,
+      "genre": "Dystopian Fiction",
+      "isbn": "978-0-452-28423-4"
+    },
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "publication_year": 1925,
+      "genre": "Fiction",
+      "isbn": "978-0-7432-7356-5"
+    },
+    {
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "publication_year": 1937,
+      "genre": "Fantasy",
+      "isbn": "978-0-261-10295-2"
+    },
+    {
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "publication_year": 1997,
+      "genre": "Fantasy",
+      "isbn": "0-590-35340-3"
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "publication_year": 1813,
+      "genre": "Classic",
+      "isbn": "978-0-486-56746-5"
+    },
+    {
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "publication_year": 1954,
+      "genre": "Fantasy",
+      "isbn": "978-0-345-33968-3"
+    },
+    {
+      "title": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "publication_year": 2008,
+      "genre": "Science Fiction",
+      "isbn": "978-0-439-02348-1"
+    },
+    {
+      "title": "The Chronicles of Narnia",
+      "author": "C.S. Lewis",
+      "publication_year": 1950,
+      "genre": "Fantasy",
+      "isbn": "978-0-06-623850-0"
+    },
+    {
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "publication_year": 1818,
+      "genre": "Gothic Fiction",
+      "isbn": "978-0-14-313184-7"
+    },
+    {
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "publication_year": 1932,
+      "genre": "Dystopian Fiction",
+      "isbn": "978-0-06-085052-4"
+    },
+    {
+      "title": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "publication_year": 2003,
+      "genre": "Mystery",
+      "isbn": "0-385-50420-9"
+    },
+    {
+      "title": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "publication_year": 1847,
+      "genre": "Gothic Fiction",
+      "isbn": "978-0-14-144114-6"
+    },
+    {
+      "title": "Fahrenheit 451",
+      "author": "Ray Bradbury",
+      "publication_year": 1953,
+      "genre": "Dystopian Fiction",
+      "isbn": "978-0-7432-7357-2"
+    },
+    {
+      "title": "The Shining",
+      "author": "Stephen King",
+      "publication_year": 1977,
+      "genre": "Horror",
+      "isbn": "978-0-385-12167-5"
+    },
+    {
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "publication_year": 1851,
+      "genre": "Adventure",
+      "isbn": "978-1-59308-027-4"
+    },
+    {
+      "title": "The Road",
+      "author": "Cormac McCarthy",
+      "publication_year": 2006,
+      "genre": "Post-apocalyptic Fiction",
+      "isbn": "978-0-307-26664-9"
+    },
+    {
+      "title": "Wuthering Heights",
+      "author": "Emily Brontë",
+      "publication_year": 1847,
+      "genre": "Gothic Fiction",
+      "isbn": "978-0-14-143955-6"
+    },
+    {
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "publication_year": 1979,
+      "genre": "Science Fiction",
+      "isbn": "978-0-345-39181-3"
+    }
+  ]
+}
